@@ -18,8 +18,9 @@ export const Product = (props) => {
       <div className="nameProd">{props.name}</div>
 
       <div className="authorProd">-{props.author}-</div>
-
-      <div>{props.image}</div>
+      <div class="image">
+        <img src={props.image}></img>
+      </div>
       <div className="descriptionProd">{props.desc}</div>
       <br></br>
       <div className="priceProd">Price: {props.price}</div>

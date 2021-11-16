@@ -70,3 +70,7 @@
   color: black;
   font-family: sans-serif;
 }
+.image {
+  margin: 0 auto;
+  width: 260px;
+}

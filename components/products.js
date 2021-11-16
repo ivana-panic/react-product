@@ -6,7 +6,7 @@ export const Products = (props) => {
       id: 1,
       name: "Doctor Sleep",
       author: "Stephen King",
-      image: "./image/Doctor_Sleep.jpeg",
+      image: "image/Doctor_Sleep.jpeg",
       description:
         "Doctor Sleep is a 2013 horror novel by American writer Stephen King and the sequel to his 1977 novel The Shining. The book reached the first position on The New York Times Best Seller list for print and ebook fiction (combined), hardcover fiction, and ebook fiction",
       price: "10e",
